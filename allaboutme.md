@@ -1,5 +1,5 @@
 *I am Jhared Andrei*
 
-*//pinaka pogi sa carlatan//*
+*pinaka pogi sa carlatan*
 
-*//yon laang lab yo.//*
+*yon laang lab yo.*
