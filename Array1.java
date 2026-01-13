@@ -1,4 +1,4 @@
-public class ArrayMopakak {
+public class Array1 {
     public static void main(String[] args) {
         //1. Create an array of 10 numbers with any values
         int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
